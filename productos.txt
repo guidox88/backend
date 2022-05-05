@@ -1,0 +1,6 @@
+[{
+name:gabinete
+price:2000
+
+
+}]
